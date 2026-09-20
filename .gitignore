@@ -1,0 +1,12 @@
+.env
+.env.*
+myvenv/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.streamlit/secrets.toml
+# Raw training dataset
+data/raw/
